@@ -1,0 +1,4 @@
+#Sun Jul 06 08:25:23 IST 2025
+base.0=/Users/amitpal/Desktop/Amit/Amit Projects/ai_powered_plant_disease_detector/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
